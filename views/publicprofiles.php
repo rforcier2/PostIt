@@ -13,7 +13,7 @@
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">User Email</th>
+            <th scope="col">Username:</th>
           </tr>
         </thead>
         <tbody>
