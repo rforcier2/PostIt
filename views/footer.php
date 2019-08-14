@@ -26,20 +26,20 @@
       <div class="modal-body">
         <div class="alert alert-danger" id="loginAlert"></div>
         <form>
-          <input type="hidden" id="loginActive" name="loginActive" value="1">
+          <input type="hidden" id="loginActive" name="loginActive" value="1" />
           <div class="form-group">
             <label id="emailHelp" for="email">Email address</label>
-            <input name="email" type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+            <input name="email" type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" />
             <small id="emailSubtext" class="form-text text-muted">We'll never share your email with anyone else.</small>
           </div>
           <div class="form-group signupOnly">
             <label for="username">Username</label>
-            <input name="username" type="text" class="form-control" id="username" aria-describedby="username" placeholder="UniqueUsername123">
+            <input name="username" type="text" class="form-control" id="username" aria-describedby="username" placeholder="UniqueUsername123" />
             <small id="usernameSubtext" class="form-text text-muted">Enter a unique username!</small>
           </div>
           <div class="form-group">
             <label for="password">Password</label>
-            <input name="password" type="password" class="form-control" id="password" placeholder="Password">
+            <input name="password" type="password" class="form-control" id="password" placeholder="Password" />
           </div>
          <!-- <div class="form-check">
             <input type="checkbox" class="form-check-input" id="formCheckbox">
