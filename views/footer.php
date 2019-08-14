@@ -39,7 +39,7 @@
           </div>
           <div class="form-group">
             <label for="password">Password</label>
-            <input name="password"type="password" class="form-control" id="password" placeholder="Password">
+            <input name="password" type="password" class="form-control" id="password" placeholder="Password">
           </div>
          <!-- <div class="form-check">
             <input type="checkbox" class="form-check-input" id="formCheckbox">
