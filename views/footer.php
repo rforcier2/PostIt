@@ -28,7 +28,7 @@
         <form>
           <input type="hidden" id="loginActive" name="loginActive" value="1">
           <div class="form-group">
-            <label for="email">Email address</label>
+            <label id="emailHelp" for="email">Email address</label>
             <input name="email" type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
             <small id="emailSubtext" class="form-text text-muted">We'll never share your email with anyone else.</small>
           </div>
