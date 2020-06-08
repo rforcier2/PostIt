@@ -16,4 +16,5 @@ A very basic Twitter Clone. Users may log in and follow other users content
 
 
 
-
+**NexxUs is:**
+> A place to gather, share, connect
